@@ -21,7 +21,7 @@ const ThemeSwitcher: React.FC<Props> = ({ isDark, toggleTheme }) => (
       <Text color="textDisabled" mx="4px">
         /
       </Text>
-      <MoonIcon color={isDark ? "text" : "textDisabled"} width="24px" />
+      <MoonIcon color={isDark ? "primary" : "textDisabled"} width="24px" />
     </Flex>
   </Button>
 );
