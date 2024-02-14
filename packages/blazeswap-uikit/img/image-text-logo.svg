@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="90px" height="26px" viewBox="0 0 90 26" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 12.75C0 5.70837 5.70836 0 12.75 0C19.7916 0 25.5 5.70837 25.5 12.75C25.5 19.7916 19.7916 25.5 12.75 25.5C5.70836 25.5 0 19.7916 0 12.75Z" id="path_1" />
+    <rect width="1920" height="1080" id="artboard_1" />
+    <rect width="90" height="26" id="slice_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#slice_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Slice" clip-path="url(#clip_1)">
+    <use xlink:href="#slice_1" stroke="none" fill="none" />
+    <g id="Full-HD" clip-path="url(#clip_2)" transform="translate(-240.6001 -479.5)">
+      <g id="BLAZE" fill="#FCFC03" transform="translate(268 484)">
+        <path d="M4.06934 2.04443L9.61523 2.04443Q11.8828 2.04443 12.5508 3.39795Q12.9463 4.19775 12.7178 5.24365Q12.4629 6.46533 11.6016 7.24756Q11.1533 7.66064 10.4062 8.00342Q11.3115 8.38135 11.707 8.85596Q12.4014 9.69971 12.085 11.1851Q11.8213 12.4331 10.8193 13.4438Q9.33398 14.9556 6.78516 14.9556L1.32715 14.9556L4.06934 2.04443ZM16.1191 2.04443L17.8682 2.04443L15.4512 13.4175L21.9902 13.4175L21.665 14.9556L13.377 14.9556L16.1191 2.04443ZM31.8604 2.04443L29.8828 2.04443L22.2803 14.9556L24.0732 14.9556L26.2881 11.0884L31.3945 11.0884L31.8867 14.9556L33.8027 14.9556L31.8604 2.04443ZM34.7432 13.5054L44.7715 3.58252L37.4326 3.58252L37.7578 2.04443L47.3467 2.04443L47.0215 3.54736L36.9668 13.4175L44.9297 13.4175L44.6045 14.9556L34.4355 14.9556L34.7432 13.5054ZM58.7109 2.04443L49.2979 2.04443L46.5557 14.9556L56.1006 14.9556L56.4258 13.4175L48.5859 13.4175L49.5176 9.04053L56.6455 9.04053L56.9619 7.54639L49.834 7.54639L50.6602 3.62646L58.3682 3.62646L58.7109 2.04443ZM7.80469 7.50244Q8.91211 7.50244 9.58887 7.19482Q10.6611 6.71143 10.9248 5.45459Q11.1973 4.18896 10.2656 3.74951Q9.72949 3.50342 8.58691 3.50342L5.4668 3.50342L4.62305 7.50244L7.80469 7.50244ZM30.3838 3.96045L31.1309 9.66455L27.0879 9.66455L30.3838 3.96045ZM7.12793 13.4614Q8.73633 13.4614 9.61523 12.5298Q10.1689 11.9409 10.3535 11.106Q10.6523 9.69971 9.50098 9.18994Q8.89453 8.91748 7.7959 8.91748L4.32422 8.91748L3.35742 13.4614L7.12793 13.4614Z" />
+      </g>
+      <g id="Ellipse-2">
+        <use stroke="none" fill="#FFFFFF" fill-opacity="0" xlink:href="#path_1" fill-rule="evenodd" />
+        <g clip-path="url(#clip_3)">
+          <use xlink:href="#path_1" fill="none" stroke="#FCFC03" stroke-width="4" />
+        </g>
+      </g>
+      <path d="M12.8999 1L3.3999 19.3" id="Line-7" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M13.5 1.00003L17.8999 10.1" id="Line-8" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M9.09985 9.89996L17.8999 10.1" id="Line-9" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M22.0325 18.5L3.2998 18.5" id="Line-10" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M7.62988 11.5L22 18.5" id="Line-11" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>
