@@ -50,7 +50,7 @@ it("renders correctly", () => {
     }
 
     .c0:checked:after {
-      background-color: #FFFFFF;
+      background-color: #75835D;
     }
 
     .c0:disabled {

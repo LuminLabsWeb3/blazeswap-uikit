@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="350px" height="350px" viewBox="0 0 350 350" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 175C0 78.3502 78.3502 0 175 0C271.65 0 350 78.3502 350 175C350 271.65 271.65 350 175 350C78.3502 350 0 271.65 0 175Z" id="path_1" />
+    <rect width="1920" height="1080" id="artboard_1" />
+    <rect width="350" height="350" id="slice_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#slice_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Slice-2" clip-path="url(#clip_1)">
+    <use xlink:href="#slice_1" stroke="none" fill="none" />
+    <g id="Full-HD" clip-path="url(#clip_2)" transform="translate(-227 -488)">
+      <use xlink:href="#artboard_1" stroke="none" fill="#000000" />
+      <path d="M164.5 16.5L243.9 142.7" id="Line-11" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="30" stroke-linecap="round" />
+      <g id="Ellipse">
+        <g clip-path="url(#clip_3)">
+          <use xlink:href="#path_1" fill="none" stroke="#FCFC03" stroke-width="60" />
+        </g>
+      </g>
+      <path d="M175 16.5L39.125 256.4" id="Line" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="30" stroke-linecap="round" />
+      <path d="M243.5 142.7L107.1 142.7" id="Line-3" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="30" stroke-linecap="round" />
+      <path d="M107.1 142.7L309.5 256.8" id="Line-4" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="30" stroke-linecap="round" />
+      <path d="M38 256.8L309.5 256.8" id="Line-5" fill="none" fill-rule="evenodd" stroke="#FCFC03" stroke-width="30" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>

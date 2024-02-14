@@ -71,7 +71,7 @@ it("renders correctly", () => {
       flex-grow: 1;
       padding: 8px;
       border-radius: 16px 16px 0 0;
-      color: #FFFFFF;
+      color: #75835D;
       background-color: #FCFC03;
     }
 
@@ -98,7 +98,7 @@ it("renders correctly", () => {
     }
 
     .c5 {
-      color: #FFFFFF;
+      color: #75835D;
       font-size: 16px;
       font-weight: 400;
       line-height: 1.5;

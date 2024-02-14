@@ -290,7 +290,7 @@ it("renders ConnectModal correctly", () => {
     }
 
     .c1 {
-      background: #FFFFFF;
+      background: #75835D;
       box-shadow: 0px 20px 36px -8px rgba(14,14,44,0.1),0px 1px 1px rgba(0,0,0,0.05);
       border: 1px solid #E9EAEB;
       border-radius: 32px;

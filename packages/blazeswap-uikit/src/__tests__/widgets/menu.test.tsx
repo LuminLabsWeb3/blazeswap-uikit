@@ -476,7 +476,7 @@ it("renders correctly", () => {
       -ms-flex: none;
       flex: none;
       padding: 8px 4px;
-      background-color: #FFFFFF;
+      background-color: #75835D;
       border-top: solid 2px rgba(133,133,133,0.1);
     }
 
@@ -499,7 +499,7 @@ it("renders correctly", () => {
       -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
       flex-shrink: 0;
-      background-color: #FFFFFF;
+      background-color: #75835D;
       width: 0;
       height: 100vh;
       -webkit-transition: padding-top 0.2s,width 0.2s;
@@ -539,7 +539,7 @@ it("renders correctly", () => {
       padding-right: 16px;
       width: 100%;
       height: 64px;
-      background-color: #FFFFFF;
+      background-color: #75835D;
       border-bottom: solid 2px rgba(133,133,133,0.1);
       z-index: 20;
       -webkit-transform: translate3d(0,0,0);

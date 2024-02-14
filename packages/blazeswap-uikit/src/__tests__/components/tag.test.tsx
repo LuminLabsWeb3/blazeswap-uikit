@@ -12,7 +12,7 @@ it("renders correctly", () => {
       -ms-flex-align: center;
       align-items: center;
       border-radius: 16px;
-      color: #ffffff;
+      color: #75835D;
       display: -webkit-inline-box;
       display: -webkit-inline-flex;
       display: -ms-inline-flexbox;

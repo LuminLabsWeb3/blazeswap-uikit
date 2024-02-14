@@ -36,7 +36,7 @@ it("renders correctly", () => {
     }
 
     .c0 .pancake:nth-child(1) {
-      background: #FFFFFF;
+      background: #75835D;
       box-shadow: 0 2px 0 2px #BDC2C4;
     }
 
@@ -231,7 +231,7 @@ it("renders correctly scale sm", () => {
     }
 
     .c0 .pancake:nth-child(1) {
-      background: #FFFFFF;
+      background: #75835D;
       box-shadow: 0 1px 0 1px #BDC2C4;
     }
 

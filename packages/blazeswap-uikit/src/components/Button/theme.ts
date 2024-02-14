@@ -19,7 +19,7 @@ export const scaleVariants = {
 export const styleVariants = {
   [variants.PRIMARY]: {
     backgroundColor: "primary",
-    color: "white",
+    color: "#11140C",
   },
   [variants.SECONDARY]: {
     backgroundColor: "transparent",
@@ -38,15 +38,15 @@ export const styleVariants = {
   },
   [variants.SUBTLE]: {
     backgroundColor: "textSubtle",
-    color: "white",
+    color: "#11140C",
   },
   [variants.DANGER]: {
     backgroundColor: "failure",
-    color: "white",
+    color: "#11140C",
   },
   [variants.SUCCESS]: {
     backgroundColor: "success",
-    color: "white",
+    color: "#11140C",
   },
   [variants.TEXT]: {
     backgroundColor: "transparent",
